@@ -1,1 +1,1 @@
-print("global")
+print("global - bug fix")
